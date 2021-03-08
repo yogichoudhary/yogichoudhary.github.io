@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "sangeeta academy",
-    "currentPage": "courses.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -62,7 +62,8 @@
     "gdpr": false,
     "publishChangesOnly": false,
     "robotsText": "User-agent: *\nallow: /\n\n",
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "google-analytics": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Sangeeta Academy\",\n  \"image\": \"\",\n  \"@id\": \"\",\n  \"url\": \"\",\n  \"telephone\": \"\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"\",\n    \"addressLocality\": \"\",\n    \"postalCode\": \"\",\n    \"addressCountry\": \"\"\n  }  \n}\n</script>"
   },
   "pages": {
     "index.html": {
